@@ -1,1 +1,1 @@
-Here is ome text.
+Here is some text.
